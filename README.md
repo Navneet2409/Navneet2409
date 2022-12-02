@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navneet_Keshri
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking for a job in Data Science or related field
 - 📫 Reach me at https://www.linkedin.com/in/navneet-keshri-28650918b/
 
