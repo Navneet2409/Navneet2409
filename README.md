@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Navneet2409
+- 👋 Hi, I’m @Navneet_Keshri
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking for a job in Data Science or related field
