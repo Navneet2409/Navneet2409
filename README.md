@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Navneet_Keshri
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking for a job in Data Science or related field
+- 👀 Working and Learning as a Data Science Trainee at Almabetter
+- 🌱 I’m currently studying Deep learning
+- 💞️ I’m looking for a better opportunities in Data Science or related field
 - 📫 Reach me at https://www.linkedin.com/in/navneet-keshri-28650918b/
 
 <!---
