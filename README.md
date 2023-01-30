@@ -3,7 +3,7 @@
 - 🌱 I'm interested in AI/ML technologies
 - 🙌 I’m looking to collaborate on any Data related projects.
 - 💞️ I’m looking for a better opportunities in Data Science or related field
-- 📫 Reach me at LinkedIn [https://www.linkedin.com/in/navneet-keshri?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BF8D7OAmDQwawvnGkS7Q0nA%3D%3D](url)
+- 📫 Reach me at [LinkedIn -@Navneet_keshri](linkedin.com/in/navneet-keshri)
 ⚡ Fun fact: I would love to work with same minded people like me as a team.
 - 
 <!---
