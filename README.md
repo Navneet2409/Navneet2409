@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Navneet_Keshri
-- 🏢 Working as a Data Science Trainee at Almabetter
+- 🏢 Working as an Assistant Professor for Data Science at Sunstone
 - 🌱 I'm interested in AI/ML technologies
 - 🙌 I’m looking to collaborate on any Data related projects.
 - 💞️ I’m looking for a better opportunities in Data Science or related field
